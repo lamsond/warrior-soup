@@ -1,7 +1,7 @@
 import java.io.IOException;
 
 import org.jsoup.Jsoup;
-import org.jsoup.Document;
+import org.jsoup.nodes.Document;
 
 public class SoupTest{
     public static void main(String[] args){
